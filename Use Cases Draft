@@ -8,3 +8,9 @@ UC-6: Create/Restore Backup (Administrator) - Availability
 UC-7: Manage Course Offerings (Administration) - Interoperability
 
 Other Attributes: User Friendliness & Accessibility
+
+
+CON-1: Must have 99.999% availability
+CON-2: Submission file size should be limited
+CON-3: Student/Lecturer must be able to view/make changes to his/her own class
+CON-4: Constrained to Java application compatibility 
