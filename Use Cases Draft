@@ -1,0 +1,10 @@
+Use Cases
+UC-1: Login - Security/Privacy
+UC-2: Create/Remove Course (Lecturer)
+UC-3: Manage Grades (Lecturer)
+UC-4 View Course Information (Student)
+UC-5: Submit Content (Student)
+UC-6: Create/Restore Backup (Administrator) - Availability
+UC-7: Manage Course Offerings (Administration) - Interoperability
+
+Other Attributes: User Friendliness & Accessibility
